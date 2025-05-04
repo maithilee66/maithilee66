@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hi👋 ! I am Maithilee
+### I am a software Developer @Persistent Systems<br/>
+### Completed My graduation in Computer Science Engineering in 2024
 ![Maithilee's GitHub stats](https://github-readme-stats.vercel.app/api?username=maithilee66&theme=dark&show_icons=true)
 
 ## 🌐 Socials:
